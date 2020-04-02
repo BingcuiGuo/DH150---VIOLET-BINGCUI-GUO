@@ -81,6 +81,9 @@ The picture and the categories match and all the subpages use the same style so 
 ### 5.Error prevention
 The website does have some error prevention like when I register and my password is too short, it won’t let me create an account. 
 
+
+<img src = "./fashion-error.jpeg" width="50%">
+
 ### 6.Recognition rather than recall
 The website doesn’t have a thing to remember our clothes preference or size so we need to manually reselect every time or the website would pop up some clothes that are not our style. The severity of the problem is 2. 
 
@@ -92,6 +95,8 @@ The website is clear but it doesn’t have enough graphical things to help users
 
 ### 9.Help users recognize, diagnose, and recover from errors
 The website doesn’t help users to prevent errors. For example,  when I create the account, it doesn’t specify the length and what I should include in the password, which is very confusing for users. The severity of the problem is 2. 
+
+<img src = "./fashion-error.jpeg" width="50%">
 
 ### 10.Help and documentation 
 The website has a “Need Help” section which contains possible problems that users might encounter and a contact us section, which is satisfactory.  
