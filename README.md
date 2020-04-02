@@ -96,7 +96,7 @@ The website is clear but it doesn’t have enough graphical things to help users
 ### 9.Help users recognize, diagnose, and recover from errors
 The website doesn’t help users to prevent errors. For example,  when I create the account, it doesn’t specify the length and what I should include in the password, which is very confusing for users. The severity of the problem is 2. 
 
-<img src = "./create-account.jpeg" width="50%">
+<img src = "./create-account.jpg" width="50%">
 
 ### 10.Help and documentation 
 The website has a “Need Help” section which contains possible problems that users might encounter and a contact us section, which is satisfactory.  
