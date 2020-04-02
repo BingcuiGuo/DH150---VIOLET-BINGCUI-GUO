@@ -1,4 +1,4 @@
-### GIVE LOVE OUT
+# GIVE LOVE OUT
 My name is Bingcui (Violet) Guo.  And this is DH150 User Experience Design in Spring 2020, from which I learned how to design a good user interface to bring users good experience. 
 
 In this project, I will propose a novel ux design of a website to enhance the aesthetic experience for an international volunteer organization. By enhancing the design of its website, I hope this could make this website more formalized and organized and thus make it clear for more applicants who want to contribute to the world to understand what programs  the organization offers and how they could become an international volunteer. By doing this will also enhance the efficiency and satisfaction when uses browse this website to retrieve the information they want. 
