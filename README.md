@@ -1,4 +1,4 @@
-#####                                             GIVE LOVE OUT
+##### GIVE LOVE OUT
 My name is Bingcui (Violet) Guo.  And this is DH150 User Experience Design in Spring 2020, from which I learned how to design a good user interface to bring users good experience. 
 
 In this project, I will propose a novel ux design of a website to enhance the aesthetic experience for an international volunteer organization. By enhancing the design of its website, I hope this could make this website more formalized and organized and thus make it clear for more applicants who want to contribute to the world to understand what programs  the organization offers and how they could become an international volunteer. By doing this will also enhance the efficiency and satisfaction when uses browse this website to retrieve the information they want. 
@@ -38,6 +38,7 @@ The website does so bad at this point. Because when I browse the website, I migh
 
 # 7.Flexibility and efficieny of use
 The website does have a menu for us to search but it is a long list and there is nothing like keyword search, which is a little bit unsatisfactory. So the severity of problem is 1. 
+
 <img src = "./GIVE-key-word.jpeg" width="50%">
 
 # 8.Aesthetic and minimalist design
@@ -60,14 +61,17 @@ My overall evaluation of this website is that although it includes all the piece
 ### Heuristic Evaluation:
 # 1.Visibility of system Status
 I would say this website has done a visibility of the system like it has a bag and a heart with numbers showing that how many clothes we have collected or put into our shopping cart, which is good. 
+
 <img src = "./shop-bag.jpeg" width="50%">
 
 # 2.Match between system and the real world
 This website uses a section of “curve” which is really confusing for me at the beginning. And even when I click it, it shows nothing besides the section of Woman and I still don’t know what it is. Curve usually means the shape or something. The severity of the problem is 3.
+
 <img src = "./curve.jpeg" width="50%">
 
 # 3.User control and freedom
 The website enables users to delete things from cart and gives us the flexibility to discard the clothese that we don’t wanna choose. 
+
 <img src = "./check-out.jpeg" width="50%">
 
 # 4.Consistency and standards
