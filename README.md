@@ -35,6 +35,8 @@ The website does so bad at this point. Because when I browse the website, I migh
 ### 7.Flexibility and efficieny of use
 The website does have a menu for us to search but it is a long list and there is nothing like keyword search, which is a little bit unsatisfactory. So the severity of problem is 1. 
 
+<img src = "./GIVE-key-word.jpeg" width="50%">
+
 ### 8.Aesthetic and minimalist design
 The website is clear but it doesn’t have enough graphical things to help users understand. Although the layout of the website is okayish. So the severity of the problem is 1. 
 
