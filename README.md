@@ -29,15 +29,11 @@ The picture and the program name and site match and all subpage of GIVE use the 
 ### 5.Error prevention
 The website does have some error prevention when user type in date of birth and requires the use to type in certain format and if I type in the wrong format it won’t let me to pass. 
 
-<img src = "./give_error_prevention.jpeg" width="50%">
-
 ### 6.Recognition rather than recall
 The website does so bad at this point. Because when I browse the website, I might have several programs in mind and I want to select them to narrow down my choice first and then keep browsing. However, this website doesn’t contain anything like a program selection storing bag or something to keep what I chose previously and the only thing I could do is to register for my top-choice program but if I need to cancel I need to contact them, etc. So this is a really serious problem of a severity rating of 3. 
 
 ### 7.Flexibility and efficieny of use
 The website does have a menu for us to search but it is a long list and there is nothing like keyword search, which is a little bit unsatisfactory. So the severity of problem is 1. 
-
-<img src = "./give_error_prevention.jpeg" width="50%">
 
 ### 8.Aesthetic and minimalist design
 The website is clear but it doesn’t have enough graphical things to help users understand. Although the layout of the website is okayish. So the severity of the problem is 1. 
@@ -46,6 +42,8 @@ The website is clear but it doesn’t have enough graphical things to help users
 The page doesn’t have many help to help users recognize problem. For example, in the application form,  like Are you a student, and we might type “y”, “yes”,”YES”,“I am a student” etc. and this will increase the difficulty of recognizing what is the user input for backend data storing. But it doesn’t provide use a valid input format. When typing in some explanation of our application, the website doesn’t show the character limit while if we type in too much, it would cause difficulty for backend. This has a severity rating of 2. 
 
 <img src = "./give-cus-rec.jpeg" width="50%">
+
+<img src = "./give_error_prevention.jpeg" width="50%">
 
 ### 10.	Help and documentation 
 The website doesn’t have a help of documentation section. Although the “how it works” section roughly explains how the application process would go through, there aren’t many Q&A session which address some general concerns like how I would be contacted by the local coordinator, etc. And for these questions, we might leave a note at the contact us section but it requires extra typing, which is really inconvenient. So the severity of this problem is 3. 
